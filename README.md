@@ -9,7 +9,7 @@ Three active projects. All shipping. All in public.
 ## What I'm Building
 
 ### 🌞 [Solar AI OS](https://github.com/theintelligentmind00-droid/Solar-Ai)
-> *The AI that revolves around you.*
+> *The AI that orbits around you.*
 
 A local-first AI personal OS where your life is organized as a solar system. Each planet — school, work, health, sports — has its own persistent memory and AI context. Runs entirely on your own API key. Your data never touches a server.
 
