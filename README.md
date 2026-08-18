@@ -69,7 +69,6 @@ A security scanner that points at any deployed site or local project and hunts f
 
 ## Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-https://liamsbuilds.netlify.app/-111110?style=flat)](https://liambuilds.netlify.app)
 [![X](https://img.shields.io/badge/X-@theintell1gence-111110?style=flat&logo=x&logoColor=white)](https://x.com)
 [![Solar AI](https://img.shields.io/badge/Solar_AI-Try_it_free-F59E0B?style=flat)](https://solar-ai-three.vercel.app)
 
