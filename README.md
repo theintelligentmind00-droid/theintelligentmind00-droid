@@ -2,7 +2,7 @@
 
 High schooler (Class of 2029) building software that probably shouldn't exist yet.
 
-Three active projects. All shipping. All in public.
+Four active projects. All shipping. All in public.
 
 ---
 
@@ -35,6 +35,16 @@ Automated trading platform targeting inefficiencies in Polymarket and Kalshi pre
 
 **Stack:** FastAPI · Next.js · Polymarket · Kalshi · Supabase  
 **Status:** Paper trading
+
+---
+
+### 🔑 [LeakCheck](https://github.com/theintelligentmind00-droid/leakcheck)
+> *Find the leak before someone else does.*
+
+A security scanner that points at any deployed site or local project and hunts for exposed API keys, live secrets, and misconfigured backends — AWS, OpenAI, Anthropic, Stripe, Supabase `service_role` keys, exposed `.env` and `.git`. Zero dependencies, secrets always redacted in output, exit-codes for CI.
+
+**Stack:** Node.js · zero-dep CLI  
+**Status:** v0.1 shipped — 11 tests green
 
 ---
 
